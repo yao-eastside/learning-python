@@ -9,4 +9,4 @@ y = np.random.rand(10000)
 _ = axes[1].hist(y, bins=100)
 
 print("hello world!")
-print('ok')
+print('haha')
